@@ -16,5 +16,5 @@ graph-chain-cosmos = { path = "../../chain/cosmos" }
 graphql-parser = "0.4.0"
 http = "0.2"
 hyper = "0.14"
-lazy_static = "1.2.0"
+lazy_static = "1.5.0"
 serde = "1.0"

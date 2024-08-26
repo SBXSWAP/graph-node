@@ -13,7 +13,7 @@ graph-node = { path = "../../node" }
 graph = { path = "../../graph" }
 graph-store-postgres = { path = "../postgres" }
 graph-chain-ethereum = { path = "../../chain/ethereum" }
-lazy_static = "1.1"
+lazy_static = "1.5"
 hex-literal = "0.4"
 diesel = { version = "1.4.8", features = ["postgres", "serde_json", "numeric", "r2d2"] }
 serde = "1.0"
